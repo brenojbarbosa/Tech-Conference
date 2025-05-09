@@ -54,7 +54,7 @@ const RegisterForm = () => {
     };
 
     return (
-        <Container className="container py-5">
+        <Container className="py-5">
             <h2 className="mb-4">Inscreva-se no Evento</h2>
 
             {submitted && (
